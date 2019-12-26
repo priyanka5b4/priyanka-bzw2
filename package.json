@@ -1,0 +1,19 @@
+{
+  "name": "priyanka-bzw2",
+  "version": "1.0.0",
+  "description": "MEan FULL Stack  Dev-WEEK 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/priyanka5b4/priyanka-bzw2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/priyanka5b4/priyanka-bzw2/issues"
+  },
+  "homepage": "https://github.com/priyanka5b4/priyanka-bzw2#readme"
+}
